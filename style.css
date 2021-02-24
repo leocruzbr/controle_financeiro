@@ -147,5 +147,5 @@ input[type='number'] {
 }
 
 .transactions li:hover .delete-btn {
-    opacity: 1;
+    opacity: .9;
 }
